@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">assignment</string>
+    <string name="mission_name">Mission Name : %1$s</string>
+    <string name="rocket_name">Rocket Name : %1$s</string>
+    <string name="launch_site_name">Launch Site Name : %1$s</string>
+    <string name="launch_date">Date of Launch : %1$s</string>
+</resources>
